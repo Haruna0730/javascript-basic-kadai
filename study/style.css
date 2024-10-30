@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+header{
+  background-color: gray; /* ヘッダーの背景色 */
+  text-align: right; /* ヘッダー文字を右寄せ */
+  padding: 15pt 0;
+}
+.nav-link{
+  color: white; /* ナビリンクの文字色 */
+  margin-right: 10pt; /* ナビリンクの余白 */
+}
